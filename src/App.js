@@ -9,6 +9,7 @@ import About from "./components/About";
 import TaskDetails from "./components/TaskDetails"
 
 function App() {
+    // TO START WEB SERVER USE 'npm start server'
     // TO RUN JSON SERVER USE 'npm run server'
 
     const [showAddTask, setShowAddTask] = useState(false)
